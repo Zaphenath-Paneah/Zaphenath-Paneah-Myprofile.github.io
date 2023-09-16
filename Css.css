@@ -5,7 +5,7 @@
     color: white;
 }
 body{
-    background-color: blue;
+    background-color: azure;
 }    
 .background{
     width: 100%;
@@ -60,8 +60,6 @@ p{
     margin-left: 5%;
 }
 #copyright{
-    color:blue;
-    margin-right:50%;
-    margin-left:50%;
+    text-align: center;
 }
 
