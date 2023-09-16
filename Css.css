@@ -4,6 +4,9 @@
 #Title{
     color: white;
 }
+body{
+    background-color: azure;
+}    
 .background{
     width: 100%;
     height: 100%;
