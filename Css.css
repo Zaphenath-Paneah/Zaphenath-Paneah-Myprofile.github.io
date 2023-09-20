@@ -1,0 +1,164 @@
+*{
+    box-sizing: border-box;
+}
+#Title{
+    color: white;
+}
+.background{
+    width: 100%;
+    height: 100%;
+    background-image: url('Animalhorse.png');
+    background-size: cover;
+}
+#profpic{
+    border: 2px solid white;
+    width: 200px;
+    height: 200px;
+}
+h1{
+    font-size: 65px;
+    margin-top: 80px;
+    float: right;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    outline: green right;
+}
+.intro{
+    box-shadow: 4px 4px 4px white;
+    background: linear-gradient(45deg,skyblue,orange,skyblue);
+}
+i{
+    height: 310px;
+}
+p{
+    font-size: 40px;
+    color: black;
+}
+.view{
+    font-size: 30px;
+    margin-bottom: 0px;
+    text-decoration: none;
+    color: green;
+}
+.Birthinfo,.Schoolinfo,.Socialinfo{
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    height: 24%;
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    color: white;
+    margin-top: 9%;
+    margin-bottom: 9%;
+}
+.Birthinfo:hover,.Schoolinfo:hover,.Socialinfo:hover{
+    box-shadow: 10px 10px 10px grey;
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.Eduback{
+    background: url('Animalhorse.png') ;
+    background-size: cover;
+    height: 100%;
+}
+#Addricon,#Homeicon,#Conticon,#edunashicon{
+    font-size: 100px;
+    text-align: center;
+    color: orange; 
+    width: 33%;
+    height: 100px;
+    border: 1.5px solid grey;
+    background-color: white;
+}
+#eduicon,#addrnashicon,#contsocialicon{
+    margin-top: 0px;
+    margin-left: 45%;
+    margin-right: 45%;
+    font-size: 100px;
+    color: gold;
+    width: 10%;
+    height: 10px;
+}
+.Socialstatus{
+    text-align: center;
+    border-radius: 10px;
+    background-color: azure;
+    color: black;
+    height: 1600px;
+    width: 85%;
+    margin-right: 7.5%;
+    margin-left: 7.5%;
+    color: white;
+    margin-top: 12%;
+}
+.nashstatus{
+    overflow-y: hidden;
+    text-align: center;
+    border-radius: 10px;
+    background-color: azure;
+    color: black;
+    height: 750px;
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    color: white;
+    margin-top: 12%;
+}
+.nashstatus:hover{
+    box-shadow: 10px 10px 10px grey;
+    width: 98%;
+    height: 2150px;
+    margin-right: 1%;
+    margin-left: 1%;  
+}
+.Edustatus{
+    overflow-y: hidden;
+    text-align: center;
+    border-radius: 10px;
+    background-color: azure;
+    color: black;
+    height: 450px;
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    color: white;
+    margin-top: 12%;
+}
+.Edustatus:hover,.nashstatus:hover{
+    box-shadow: 10px 10px 10px grey;
+    width: 98%;
+    height: 2100px;
+    margin-right: 1%;
+    margin-left: 1%;  
+}
+input{
+    width: 65%;
+    padding: 20px;
+    font-size: 40px;
+}
+legend{
+    font-weight: 100px;
+    font-size: 60px;
+    color: black;
+    font-family: cursive;
+}
+fieldset{
+    border: 4px solid black;
+}
+label{
+    font-size: 40px;
+    color: black;
+}
+#hrr{
+    border: 3px solid black;
+}
+#logonashpic{
+    width: 150px;
+    height: 150px;
+}
+.contactsocial{
+    text-align: left !important;
+}
